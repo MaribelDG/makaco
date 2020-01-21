@@ -73,7 +73,7 @@ I am a biotechnology engineer with concentration in molecular biology, I obtaine
 
 I am expected to do a fast-track transfer to PhD to work on **_Transcriptomics of engineered microalgae_**, eventhough the program is in molecular and cellular biology, I will do the analysis of my data. 
 
-Additionally, I have worked with metagenomics data to assign taxonomy to microbial populations from environmental samples in Mexico, analyzing differential compositions depending on crop and developmental stage. 
+I am working on the assembly and annotation of the transcriptome of _Leucojum aestivum_. Additionally, I have worked with metagenomics data to assign taxonomy to microbial populations from environmental samples in Mexico, analyzing differential compositions depending on crop and developmental stage. 
 
 ### **Skills**
 
